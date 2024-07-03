@@ -1,8 +1,8 @@
 <h1>Desenvolvedor JavaScript| React.js| Node.js</h1>
 
 
-Sou Wiulis, apaixonado por tecnologia e explorando o desenvolvimento Full Stack. Atualmente, estou estudando HTML, CSS, JavaScript, React, Git, Node, Express, Sequelize, MySQL e Git.
+I'm Wiulis, passionate about technology and exploring Full Stack Development. Currently, I'm studying HTML, CSS, JavaScript, React, Git, Node, Express, Sequelize, MySQL, and Git.
 
-Mesmo sendo iniciante e sem experiência profissional, minha determinação e vontade de aprender me motivam. Estou animado com a oportunidade de trabalhar em projetos inovadores e colaborar com pessoas da comunidade tecnológica.
+Although I'm a beginner with no professional experience, my determination and eagerness to learn drive me forward. I'm excited about the opportunity to work on innovative projects and collaborate with people in the tech community.
 
-Confira meus repositórios para acompanhar meu progresso. Vamos nos conectar e embarcar juntos nessa jornada empolgante!
+Check out my repositories to follow my progress. Let's connect and embark on this exciting journey together!
